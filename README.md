@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riyad</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha589&label=Profile%20views&color=0e75b6&style=flat" alt="talha589" /> </p>
 
-- 🔭 I’m currently working on **Bank-Account-System**
 
 - 🌱 I’m currently learning **C++**
 
