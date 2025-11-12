@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha589&label=Profile%20views&color=0e75b6&style=flat" alt="talha589" /> </p>
 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **riyad96b@gmail.com**
 
